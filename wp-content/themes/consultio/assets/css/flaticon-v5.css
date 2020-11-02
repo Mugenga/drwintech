@@ -1,0 +1,78 @@
+@font-face {
+  font-family: "Flaticon-v5";
+  src: url("../fonts/Flaticon-v5.eot");
+  src: url("../fonts/Flaticon-v5.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon-v5.woff") format("woff"),
+       url("../fonts/Flaticon-v5.ttf") format("truetype"),
+       url("../fonts/Flaticon-v5.svg#Flaticon-v5") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon-v5";
+    src: url("../fonts/Flaticon-v5.svg#Flaticon-v5") format("svg");
+  }
+}
+
+[class^="flaticonv5-"]:before, [class*=" flaticonv5-"]:before,
+[class^="flaticonv5-"]:after, [class*=" flaticonv5-"]:after {   
+  font-family: Flaticon-v5;
+  font-size: inherit;
+  font-style: normal;
+}
+
+.flaticonv5-right-arrow:before { content: "\f100"; }
+.flaticonv5-affiliate-marketing:before { content: "\f101"; }
+.flaticonv5-report:before { content: "\f102"; }
+.flaticonv5-megaphone:before { content: "\f103"; }
+.flaticonv5-screen:before { content: "\f104"; }
+.flaticonv5-business-presentation:before { content: "\f105"; }
+.flaticonv5-pie-chart:before { content: "\f106"; }
+.flaticonv5-bank:before { content: "\f107"; }
+.flaticonv5-target-1:before { content: "\f108"; }
+.flaticonv5-phone-call:before { content: "\f109"; }
+.flaticonv5-right-arrows:before { content: "\f10a"; }
+.flaticonv5-headphone:before { content: "\f10b"; }
+.flaticonv5-trust:before { content: "\f10c"; }
+.flaticonv5-calculator-1:before { content: "\f10d"; }
+.flaticonv5-open-menu:before { content: "\f10e"; }
+.flaticonv5-crown:before { content: "\f10f"; }
+.flaticonv5-contract:before { content: "\f110"; }
+.flaticonv5-analysis:before { content: "\f111"; }
+.flaticonv5-users:before { content: "\f112"; }
+.flaticonv5-trophy:before { content: "\f113"; }
+.flaticonv5-portfolio:before { content: "\f114"; }
+.flaticonv5-null:before { content: "\f115"; }
+.flaticonv5-business-and-finance:before { content: "\f116"; }
+.flaticonv5-growth-chart:before { content: "\f117"; }
+.flaticonv5-growth-chart-1:before { content: "\f118"; }
+.flaticonv5-presentation:before { content: "\f119"; }
+.flaticonv5-presentation-1:before { content: "\f11a"; }
+.flaticonv5-presentation-2:before { content: "\f11b"; }
+.flaticonv5-pie-chart-1:before { content: "\f11c"; }
+.flaticonv5-growth-chart-2:before { content: "\f11d"; }
+.flaticonv5-data-report:before { content: "\f11e"; }
+.flaticonv5-growth-chart-3:before { content: "\f11f"; }
+.flaticonv5-play-button:before { content: "\f120"; }
+.flaticonv5-pie-chart-2:before { content: "\f121"; }
+.flaticonv5-coin-1:before { content: "\f122"; }
+.flaticonv5-bar-chart:before { content: "\f123"; }
+.flaticonv5-business-intelligence:before { content: "\f124"; }
+.flaticonv5-networking:before { content: "\f125"; }
+.flaticonv5-business-plan:before { content: "\f126"; }
+.flaticonv5-seo:before { content: "\f127"; }
+.flaticonv5-business-strategy:before { content: "\f128"; }
+.flaticonv5-target-2:before { content: "\f129"; }
+.flaticonv5-double-chevron:before { content: "\f12a"; }
+.flaticonv5-refresh:before { content: "\f12b"; }
+.flaticonv5-reload:before { content: "\f12c"; }
+.flaticonv5-reload-1:before { content: "\f12d"; }
+.flaticonv5-redo:before { content: "\f12e"; }
+.flaticonv5-refresh-1:before { content: "\f12f"; }
+.flaticonv5-refresh-2:before { content: "\f130"; }
+.flaticonv5-business-strategy-1:before { content: "\f131"; }
+.flaticonv5-email:before { content: "\f132"; }
+.flaticonv5-download:before { content: "\f133"; }
+.flaticonv5-right-arrow-1:before { content: "\f134"; }
